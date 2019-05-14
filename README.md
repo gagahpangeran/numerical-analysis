@@ -13,4 +13,4 @@
   without pivoting, with partial pivoting, and with complete pivoting)
 - [2nd Assignment](/assignment-2) (Stewart Platform Kinematics)
 - [3rd Assignment](/assignment-3) (Optimization: Theory and Application)
-- 4th Assignment (TBA)
+- [4th Assignment](/assignment-4) (Path Calculator)
